@@ -116,8 +116,8 @@ export default function Navbar() {
           <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-tr from-purple-600 to-indigo-500 text-white shadow-lg shadow-purple-500/25">
             <Film className="h-5 w-5" />
           </div>
-          <span className="hidden sm:inline bg-gradient-to-r from-purple-400 via-pink-400 to-indigo-400 bg-clip-text text-transparent font-extrabold text-xl">
-            Anihub
+          <span className="hidden sm:inline bg-gradient-to-r from-amber-400 via-orange-500 to-red-500 bg-clip-text text-transparent font-extrabold text-xl">
+            결스타인애니-season킁킁
           </span>
         </Link>
 
